@@ -1,0 +1,11 @@
+[project]
+name = "ecommerce-recommendation"
+version = "0.1.0"
+requires-python = "==3.11.*"
+dependencies = [
+    "streamlit",
+    "pandas",
+    "matplotlib",
+    "scikit-learn",
+    "openpyxl",
+    "numpy"
