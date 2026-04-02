@@ -1,1 +1,1 @@
-python3-matplotlib
+libfreetype6-dev
