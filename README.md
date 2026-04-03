@@ -48,7 +48,7 @@ ecommerce-sales-analysis/
 ### Page 1 — Sales & Revenue Performance
 > *"How is the business performing?"*
 
-![Sales Dashboard](images/page1_sales_revenue.png)
+![Sales Dashboard](page1_sales_revenue.png)
 
 | Metric | Value |
 |--------|-------|
