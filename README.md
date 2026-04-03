@@ -68,7 +68,7 @@ ecommerce-sales-analysis/
 ### Page 2 — Customer Behaviour & Segmentation
 > *"Who are our customers and how do they shop?"*
 
-![Customer Dashboard](images/page2_customer_behaviour.png)
+![Customer Dashboard](page2_customer_behaviour.png)
 
 | Metric | Value |
 |--------|-------|
@@ -88,7 +88,7 @@ ecommerce-sales-analysis/
 ### Page 3 — Operational & Customer Experience
 > *"How satisfied are customers and how efficient is delivery?"*
 
-![Operational Dashboard](images/page3_operational.png)
+![Operational Dashboard](page3_operational.png)
 
 | Metric | Value |
 |--------|-------|
@@ -131,7 +131,7 @@ Deployed via Streamlit Web App
 
 ### Streamlit App Preview
 
-![Streamlit App](images/streamlit_app.png)
+![Streamlit App](streamlit_app.png)
 
 ---
 
