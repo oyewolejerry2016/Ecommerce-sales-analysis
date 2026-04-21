@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Sales Analysis
+# 🛒 E-Commerce Sales Analysis and Product Recommendation System
 
 > A complete end-to-end Business Intelligence and Machine Learning project analysing e-commerce transactions to uncover revenue insights, customer behaviour patterns, and product recommendations.
 
